@@ -4,8 +4,6 @@ Welcome to Ninja Run, a 2D side-scrolling game where you play as a ninja who mus
 ### Getting Started
 To play Ninja Run, you can either download the game from the releases page or clone the repository and open the project in Unity.
 
-### Prerequisites
-Unity 2020.3.0f1 or later
 ### Installing
 To download the game from the releases page:
 
