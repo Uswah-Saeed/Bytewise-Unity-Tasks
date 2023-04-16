@@ -21,3 +21,5 @@ Navigate to the cloned repository and select the ninja-run folder.
 Wait for Unity to import the project files.
 Gameplay
 In Ninja Run, you control a ninja who must run, jump, their way through  enemies.
+
+Here is the link to the [GamePlay](https://www.youtube.com/watch?v=0GP65mNeLyE)
