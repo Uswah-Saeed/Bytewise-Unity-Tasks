@@ -1,9 +1,0 @@
-#H1 Research and Analysis :star2:
-#H2 Procedural Generation
-Procedural generation simply means to generate data or any contect based on some procedures, rules, algorithm, logics whatever you call it. 
-Remember getting 500 times “I am sorry!” kinda handwritten punishments? It was indeed really hectic. But on computer you can do the task by using a signle loop in no time. It’s just giving **instructions** and **conditions**.
-In Games development making hundreds and thousands of levels by hand is an utter incovinience both in terms of time and money also fixed level designs can become boring by time and provides a poor user experience. However a system of procedural generation offers infinite replayability. With procedural design, players are always presented with new challenges, pushing them to learn more about the game. Additionally, procedural content can be adaptive and adjust to the player's style and the level of difficulty required to make the player stay engaged in the game for a long run.
-However, there are downsides to procedural design. 
-One size never actually fits all, and procedural content is rarely as powerful as handcrafted content. Sacrifice the exact experience you want to give to the players. Procedural design is also expensive, requiring a lot of time and resources to make. Also procedural content cannot always be coherent, engaging, or not broken, as it is **quasi-random**, following a set of rules about how the randomness works, such as how big rooms should be, how many resources, exits, and so on. 
-Therefore, it is essential to use procedural generation effectively and to balance it with handcrafted content to provide the best possible user experience.
-Games like **GTA, Mincraft, temple run, subway surfers** are examples of procedural generation based games.
