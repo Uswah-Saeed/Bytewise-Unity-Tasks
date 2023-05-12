@@ -1,6 +1,7 @@
 ## :sparkles: Game Design and Mechanics
 _A Deep Dive into Procedural Generation, Physics-Based Gameplay, Player Choice and Branching Narratives, Resource Management and Economy Systems, and Social Mechanics and Multiplayer Interactions_
-### Procedural Generation
+### :small_orange_diamond: Procedural Generation
+
 Procedural generation simply means to generate data or any contect based on some procedures, rules, algorithm, logics whatever you call it. 
 
 Remember getting 500 times “I am sorry!” kinda handwritten punishments? It was indeed really hectic. But on computer you can do the task by using a signle loop in no time. It’s just giving **instructions** and **conditions**.
@@ -21,7 +22,8 @@ Games like **Roblox** offers tools and features that allow the creators to proce
 
 Some other games like **GTA, Temple Run, subway surfers** etc comes in category of games based on procedural generation.
 
-### Physics based Games
+### :small_orange_diamond: Physics based Games
+
 The physics based games are ones who... well simple! utilizes **physics** concepts in games. How the gravity is going to effect the player or an NPC of different mass and sizes, maximum jump height, air resistence, speed of shooting bullet and many more.
 
 The best thing about physics based games are that they add an immersive experience to the game. The player get to understand how physics is effecting the player, how the player is going to tackle all the challenges with the provided skills. The player has to make continuous strategies to survive. All of this provides great experience and great curosity to excel further and more.
@@ -34,7 +36,8 @@ In order to incorporate physics engine it requires a powerful hardware for game 
 
 Some of the coolest examples of physics based games are **FallGuys, AngryBird, BounceTales 2D etc**
 
-## Player choice and branching narratives
+### :small_orange_diamond: Player choice and branching narratives
+
 In player choice and branching narratives, the player's decisions and choices influence the story and overall direction of the game. The ability to make decisions and choose one's own path increases player engagement and curiosity. It makes the player care more about the outcomes of the story and gives them a feeling of possessing **power** and **independence over decisions**.
 
 As there are multiple choices, it incites the player to replay and explore more choices and paths, providing a personalized experience and increasing the replayability of the game. However, developing these choices can be costly in terms of time, skills, resources, and money. They can also be overwhelming for some players, especially when they are new to the game.
@@ -46,14 +49,15 @@ Overall, player choices and branching add **personalized experience** to the gam
 
 Some examples of games based on Player choice and branching narratives include **The Witcher series, Fallout series, Mass Effect Series** etc.
 
-### Resource management and economy systems
+### :small_orange_diamond: Resource management and economy systems
+
 Game Resource management and economics systems are most integral part of game design. It has power to make or break a game.
 
 > What is the backbone of your game? **The Economy**.
 
  It develops right amount of fulfillment and satisfaction. It is all thanks to a well-balanced economy that makes the players come back to play the game again and again, which is the only aim for making rules for game economy or essentially the only purpose of launching any game.
 
-### Types:
+#### Types:
 
 We can categorize resource management and economic systems into these types:
 
@@ -61,7 +65,7 @@ We can categorize resource management and economic systems into these types:
 - **Currency-based systems:** These systems rely on the exchange of money for goods and services or financial investments. For instance, in the video game **Civilization**, gold is used by players to buy structures, troops, and technological advancements.
 - **Material-based systems:** These systems rely on the use of materials to construct buildings, create goods, or accomplish goals. For instance, in the game **Minecraft**, players construct structures and gather resources using materials like wood and stone.
 
-### Models
+#### Models
 
 There are various different models used in deciding for game economy. There are **Free-to-play (F2P), Pay-to-play (P2P), Subscription-based, Freemium, Ad-supported, Pay-what-you-want (PWYW)** etc.
 
@@ -71,3 +75,19 @@ There are various different models used in deciding for game economy. There are 
 
 Examples of game economies include those found in popular games like **World of Warcraft, Fortnite, and Candy Crush**.
 
+### :small_orange_diamond: Social mechanics and multiplayer interactions
+
+Multiplayer games let the players interact and play with each other. Enhancing the overall gaming experience and develops a sense of community my promoting teamwork and collaboration.
+
+### Types:
+There are various ways to introduce multiplayer interacting in games:
+
+- **Co-op gameplay:** Players work together to complete objectives or defeat enemies.
+- **Competitive gameplay:** Players compete against each other in various game modes or challenges.
+- **Social features:** Players can chat with each other, join clans or guilds, and share achievements or rewards.
+- **Multiplayer modes:** Games can offer various modes for multiplayer, such as team deathmatch, capture the flag, or battle royale.
+- **Matchmaking:** Games can match players with others of similar skill level or experience for more balanced gameplay.
+
+#### :pushpin: Examples
+
+Some of the most played games with multiplayer interactions include **FreeFire, Tanki Online, FallGuys, AmongUs** etc.
