@@ -1,6 +1,6 @@
 ## :sparkles: Game Design and Mechanics
 _A Deep Dive into Procedural Generation, Physics-Based Gameplay, Player Choice and Branching Narratives, Resource Management and Economy Systems, and Social Mechanics and Multiplayer Interactions_
-### :small_orange_diamond: Procedural Generation
+### :large_blue_diamond: Procedural Generation
 
 Procedural generation simply means to generate data or any contect based on some procedures, rules, algorithm, logics whatever you call it. 
 
@@ -24,7 +24,7 @@ Some other games like **GTA, Temple Run, subway surfers** etc comes in category 
 
 
 
-### :small_orange_diamond: Physics based Games
+### :large_blue_diamond: Physics Based Games
 
 The physics based games are ones who... well simple! utilizes **physics** concepts in games. How the gravity is going to effect the player or an NPC of different mass and sizes, maximum jump height, air resistence, speed of shooting bullet and many more.
 
@@ -38,7 +38,7 @@ In order to incorporate physics engine it requires a powerful hardware for game 
 
 Some of the coolest examples of physics based games are **FallGuys, AngryBird, BounceTales 2D etc**
 
-### :small_orange_diamond: Player choice and branching narratives
+### :large_blue_diamond: Player Choice and Branching Narratives
 
 In player choice and branching narratives, the player's decisions and choices influence the story and overall direction of the game. The ability to make decisions and choose one's own path increases player engagement and curiosity. It makes the player care more about the outcomes of the story and gives them a feeling of possessing **power** and **independence over decisions**.
 
@@ -53,7 +53,7 @@ Some examples of games based on Player choice and branching narratives include *
 
 
 
-### :small_orange_diamond: Resource management and economy systems
+### :large_blue_diamond: Resource Management and Economy Systems
 
 Game Resource management and economics systems are most integral part of game design. It has power to make or break a game.
 
@@ -81,7 +81,7 @@ Examples of game economies include those found in popular games like **World of
 
 
 
-### :small_orange_diamond: Social mechanics and multiplayer interactions
+### :large_blue_diamond: Social Mechanics and Multiplayer Interactions
 
 Multiplayer games let the players interact and play with each other. Enhancing the overall gaming experience and develops a sense of community my promoting teamwork and collaboration.
 
