@@ -22,6 +22,8 @@ Games like **Roblox** offers tools and features that allow the creators to proce
 
 Some other games like **GTA, Temple Run, subway surfers** etc comes in category of games based on procedural generation.
 
+
+
 ### :small_orange_diamond: Physics based Games
 
 The physics based games are ones who... well simple! utilizes **physics** concepts in games. How the gravity is going to effect the player or an NPC of different mass and sizes, maximum jump height, air resistence, speed of shooting bullet and many more.
@@ -49,6 +51,8 @@ Overall, player choices and branching add **personalized experience** to the gam
 
 Some examples of games based on Player choice and branching narratives include **The Witcher series, Fallout series, Mass Effect Series** etc.
 
+
+
 ### :small_orange_diamond: Resource management and economy systems
 
 Game Resource management and economics systems are most integral part of game design. It has power to make or break a game.
@@ -74,6 +78,8 @@ There are various different models used in deciding for game economy. There are 
 #### :pushpin: Examples
 
 Examples of game economies include those found in popular games like **World of Warcraft, Fortnite, and Candy Crush**.
+
+
 
 ### :small_orange_diamond: Social mechanics and multiplayer interactions
 
